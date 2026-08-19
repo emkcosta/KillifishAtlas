@@ -1,0 +1,11 @@
+name: elasticnet
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - seaborn
+  - pandas
+  - numpy
+  - matplotlib
+prefix: /home/emkcosta/.conda/envs/elasticnet
+

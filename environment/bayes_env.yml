@@ -1,0 +1,14 @@
+name: bayes
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - python=3.9
+  - scipy
+  - seaborn
+  - statsmodels
+  - pandas
+  - scikit-learn
+prefix: /home/emkcosta/.conda/envs/bayes
+
